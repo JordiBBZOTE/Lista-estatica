@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574926072 source:c:\users\hp\desktop\listaestatica\src\libro.cpp
+	"Libro.h"
+	<iostream>
+	<stdlib.h>
+
+1574926013 c:\users\hp\desktop\listaestatica\include\libro.h
+	<iostream>
+
+1574970414 source:c:\users\hp\desktop\listaestatica\src\lista.cpp
+	"Lista.h"
+	<iostream>
+	<stdlib.h>
+	"Libro.h"
+
+1574967565 c:\users\hp\desktop\listaestatica\include\lista.h
+	"Libro.h"
+
+1574968560 source:c:\users\hp\desktop\listaestatica\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Libro.h"
+	"Lista.h"
+
